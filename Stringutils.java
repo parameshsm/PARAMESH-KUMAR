@@ -1,0 +1,3 @@
+Hello Guys,
+
+ This java class contains the sting functions....
